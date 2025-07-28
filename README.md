@@ -9,6 +9,10 @@ This project implements a comprehensive machine learning pipeline for detecting 
 
 ---
 
+## PDF
+[PDF Link](פרויקט למידת מכונה.pdf)
+
+---
 ## Project Overview
 
 The main goals of this project are:
