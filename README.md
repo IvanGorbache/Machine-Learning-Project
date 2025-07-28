@@ -12,6 +12,7 @@ This project implements a comprehensive machine learning pipeline for detecting 
 ## PDF
 [[PDF Link](פרויקט למידת מכונה.pdf)
 ](https://github.com/IvanGorbache/Machine-Learning-Project/blob/main/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%20%D7%9C%D7%9E%D7%99%D7%93%D7%AA%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94.pdf)
+
 ---
 ## Project Overview
 
